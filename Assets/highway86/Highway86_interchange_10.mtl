@@ -1,0 +1,55 @@
+
+newmtl GSDInterCenter-None-6L
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd GSDInterCenter-None-6L.png
+
+
+
+newmtl GSDInterWhiteLYellowR-6L
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd GSDInterWhiteLYellowR-6L_Diffuse.png
+
+
+
+newmtl GSDInterYellowLWhiteR-6L
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd GSDInterYellowLWhiteR-6L_Diffuse.png
+
+
+
+newmtl GSDRoad1
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Asphalt_Base_Color.png
+
+
+
+newmtl GSDInterStretch-None-6L
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd GSDInterStretch-None-6L.png
+
+
